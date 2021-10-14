@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey 👋, I am Israel Goytom.
 
-<!--
-**isrugeek/isrugeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Chapa as a CTO.
+- 🌱 I’m currently learning more about Human brains!
+- 👯 I’m open to collaborate on ML and Fintech projects.
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: isrugeek [at] gmail [dot] com.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: “So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.” - Uncle Bob (Robert C. Martin)
+
+
+
+P.S If you want to talk about Quantum Neural Network or Energy efficient Deep learning Models, let me know.
