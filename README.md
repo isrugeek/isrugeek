@@ -1,16 +1,14 @@
 ### Hey 👋, Welcome to my Zone!
 
-- 🔭 I’m currently working at Chapa as a CTO.
-- 🌱 I’m currently learning more about Human brains!
-- 👯 I’m open to collaborate on ML and Fintech projects.
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: isrugeek [at] gmail [dot] com.
+- 🔭 I'm Founder & CEO of **Synheart** and Co-Founder of **Chapa** (Ethiopia fintech).
+- 🌱 I'm building **Human State Interface (HSI)** and learning more about human brains and physiology!
+- 🧠 I am mostly curious, and learn by reverse engineering.
+- 👯 I'm open to collaborate on HSI, Applied ML, fintech, and humanitarian AI problems.
+- 💬 Ask me about anything, I am happy to help.
+- 📫 How to reach me: isrugeek [at] gmail [dot] com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: “So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.” - Uncle Bob (Robert C. Martin)
+- ⚡ Fun fact: Did you know humans didn't actually invent anything—we studied and repeated what God built billions of years ago, but at our own scale.
 
+I'm most interested in real-world machine learning problems, especially applying deep learning algorithms to solve numerous Biology and Physics problems. I believe that we could create an algorithm to predict some funny questions like "What if Einstein was still alive with today's technology? How far in science would we be? Would we have started time travel?".
 
-I’m most interested in real-world machine learning problems, especially applying Deep learning algorithms to solve numerous Biology and Physics problems. I believe that we could able to create an algorithm to predict some funny questions like “What if Einstein was still alive with today’s technology? How far in science would we be? Would we have started time travel?”.
-
-
-
-P.S If you want to talk about Quantum Neural Network or Energy efficient Deep learning Models, let me know.
+P.S. If you want to talk about Quantum Neural Networks or energy-efficient deep learning models, let me know.
